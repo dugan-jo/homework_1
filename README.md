@@ -1,5 +1,6 @@
 # homework_1
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 HTML, CSS, and Git: Code Refactor!
+
 
 ## Your Task
 
@@ -109,7 +110,8 @@ This homework is graded based on the following criteria:
 
 * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-## Review
+## Review![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/75266984/152428825-21f054f6-fed3-4b4b-b8a9-d10d0667e949.png)
+
 
 You are required to submit the following for review:
 
