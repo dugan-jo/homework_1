@@ -1,9 +1,11 @@
+/* this is a universal tag, it will control everything but can be easily overridden */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* controls the body looks, like backgroud color and such */
 body {
     background-color: #d9dcd6;
 }
@@ -52,6 +54,7 @@ a {
 /* this controls the font for p (paragraph) tags */
 p {
     font-size: 16px;
+    color: white;
 }
 
 /* this controls the space beween the navigation bar and the body of the webpage */
@@ -105,11 +108,12 @@ without this section, the align would be block of on top of one another. */
     padding-top: 30px;
 }
 
+/* this controls the aside section paragraph text */
 .benefit p {
     color: white;
     margin: auto;
-
 }
+
 /* this controls the images in the aside section */
 .benefit img {
     margin: auto;
@@ -160,7 +164,7 @@ without this section, the align would be block of on top of one another. */
 /* this is the footer, added display: none to hide the footer since it is on included in the homework demo image. */
 .footer {
     display: none;
-    padding: 30px;
+    /* padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
@@ -168,4 +172,4 @@ without this section, the align would be block of on top of one another. */
 
 .footer h2 {
     font-size: 20px;
-}
+} */
